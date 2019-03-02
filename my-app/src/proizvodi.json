@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "naziv": "Silver Petarde, 40 kom",
+    "image_name": "Silver.png",
+    "cijena": 35,
+    "opis": "Petarda II. razreda. Prodajno pakiranje je 32 komada u kutiji. Neto eksplozivna masa (NEM) je 37g. Transportno pakiranje je bilo 30/4/2018. Komada u kartonu je 42. Za djecu iznad 14 godina!!",
+    "recenzije": [
+      {
+        "recenzija_id": 1,
+        "ocjena": 5,
+        "komentar": "Odlična",
+        "username": "ante"
+      },
+      {
+        "recenzija_id": 2,
+        "ocjena": 3,
+        "komentar": "Loš i kratak fitilj",
+        "username": "antonio"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "naziv": "Tenkovska, 8 kom",
+    "image_name": "Tenkovska.jpg",
+    "cijena": 35,
+    "opis": "Petarda I. razreda. Prodajno pakiranje je 10 komada u kutiji. Neto eksplozivna masa (NEM) je 60g. Transportno pakiranje je bilo 10/3/2018. Komada u kartonu je 8. Za djecu iznad 17 godina!!",
+    "recenzije": [
+      {
+        "recenzija_id": 3,
+        "ocjena": 4,
+        "komentar": "Jaka, glasna odlična",
+        "username": "šime"
+      },
+      {
+        "recenzija_id": 4,
+        "ocjena": 5,
+        "komentar": "OK",
+        "username": "joža"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "naziv": "Zolja, 26 kom",
+    "image_name": "Zolja.jpg",
+    "cijena": 29,
+    "opis": "Petarda II. razreda. Prodajno pakiranje je 32 komada u kutiji. Neto eksplozivna masa (NEM) je 30g. Transportno pakiranje je bilo 2/4/2018. Komada u kartonu je 26. Za djecu iznad 14 godina!!",
+    "recenzije": [
+      {
+        "recenzija_id": 4,
+        "ocjena": 4,
+        "komentar": "Lagana i dug fitilj",
+        "username": "marin"
+      },
+      {
+        "recenzija_id": 3,
+        "ocjena": 5,
+        "komentar": "...",
+        "username": "vedran"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "naziv": "Triangl, 26 kom",
+    "image_name": "Triangl.jpg",
+    "cijena": 35,
+    "opis": "Petarda III. razreda. Prodajno pakiranje je 40 komada u kutiji. Neto eksplozivna masa (NEM) je 20g. Transportno pakiranje je bilo 30/4/2018. Komada u kartonu je 26. Za djecu iznad 14 godina!!",
+    "recenzije": [
+      {
+        "recenzija_id": 3,
+        "ocjena": 4,
+        "komentar": "OK",
+        "username": "komšija"
+      },
+      {
+        "recenzija_id": 4,
+        "ocjena": 5,
+        "komentar": "Bombaa",
+        "username": "josip001"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "naziv": "Piratice, 100 kom",
+    "image_name": "Piratice.png",
+    "cijena": 5,
+    "opis": "Petarda III. razreda. Prodajno pakiranje je 50 komada u kutiji. Neto eksplozivna masa (NEM) je 30g. Transportno pakiranje je bilo 20/4/2018. Komada u kartonu je 100. Za djecu iznad 12 godina!!",
+    "recenzije": [
+      {
+        "recenzija_id": 4,
+        "ocjena": 4,
+        "komentar": "Najboljeee",
+        "username": "mario"
+      },
+      {
+        "recenzija_id": 3,
+        "ocjena": 5,
+        "komentar": "Govnooo",
+        "username": "joža"
+      }
+    ]
+  }
+]

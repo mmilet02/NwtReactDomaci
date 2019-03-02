@@ -1,0 +1,73 @@
+.product {
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(233, 128, 128);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  width: 90%;
+}
+
+.content-header {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+.content-header h2 {
+  margin: 0;
+}
+
+.do {
+  color: rgb(236, 96, 96);
+
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.do:hover {
+  color: rgb(240, 27, 27);
+}
+
+.content-header h3 {
+  margin: 0;
+}
+
+.content-main {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.content-footer {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+.image-wrapper {
+  width: 30%;
+}
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  display: block;
+  margin: auto;
+}
+
+.text {
+  width: 60%;
+}
+
+input {
+  background-image: url("http://localhost:3000/images/magnifier.png");
+  background-position: 8px 7px;
+  background-repeat: no-repeat;
+  width: 87%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  box-shadow: 3px 4px 7px 1px #484848;
+  border-radius: 5px;
+  margin-bottom: 12px;
+  margin-top: 10px;
+}

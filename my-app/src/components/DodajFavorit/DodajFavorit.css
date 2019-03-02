@@ -1,0 +1,11 @@
+.fas.ne {
+  margin-left: 10px;
+  cursor: pointer;
+}
+.fas:hover {
+  color: red;
+}
+
+.fas.added {
+  color: red;
+}

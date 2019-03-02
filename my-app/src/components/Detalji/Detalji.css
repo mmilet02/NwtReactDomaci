@@ -1,0 +1,78 @@
+.content-header h2 {
+  color: rgb(236, 96, 96);
+  text-decoration: none;
+}
+.content-header h3 {
+  color: rgb(236, 96, 96);
+  text-decoration: none;
+}
+.info {
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(233, 128, 128);
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+}
+.content-header {
+  display: flex;
+
+  justify-content: space-between;
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-content .img-wrapper img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+.recenzije-container h3 {
+  color: rgb(236, 96, 96);
+}
+.recenzije-container {
+  margin-top: 20px;
+}
+.recenzija {
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(233, 128, 128);
+  border-radius: 5px;
+  margin-top: 10px;
+  height: 60px;
+  display: flex;
+  padding: 20px;
+}
+
+.recenzija .usr-image-glavni {
+  margin-right: 20px;
+}
+
+.recenzija img {
+  max-width: 70px;
+}
+.img-glavni img {
+  max-width: 300px;
+  max-height: 200px;
+}
+.recenzija .recenzija-glavni .username {
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.recenzija .recenzija-glavni .rating .fas.fa-star {
+  color: yellow;
+}
+
+.content-header .fas {
+  color: rgb(219, 76, 76);
+  margin-right: 20px;
+}
+.content-header .fas:hover {
+  color: rgb(240, 27, 27);
+}
+.content-header .fas.added {
+  color: rgb(240, 27, 27);
+}
